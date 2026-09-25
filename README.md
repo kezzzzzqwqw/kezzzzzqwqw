@@ -4,7 +4,7 @@ I'm a software development student at BYU-Pathway Worldwide/BYU-Idaho interested
 
 ## About Me
 
-* 🎓 Studying Software Development at BYU-Pathway Worldwide
+* 🎓 Studying Software Development at BYU-Pathway Worldwide/BYU-Idaho
 * 💻 Currently learning Python, C#, JavaScript, SQL, and web development
 * 🛠️ Building projects through coursework and personal practice
 * 🎨 Background in graphic design and visual communication
